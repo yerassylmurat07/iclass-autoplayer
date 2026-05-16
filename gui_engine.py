@@ -7,7 +7,7 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 
 Использование:
-    python autoplayer.py --course "https://learn.inha.ac.kr/course/view.php?id=70982"
+    python autoplayer.py --course "https://learn.inha.ac.kr/course/view.php?id="
     python autoplayer.py --course "..." --speed 2.0
 
 Настройка:
